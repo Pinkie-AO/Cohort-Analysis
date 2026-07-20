@@ -12,11 +12,11 @@
 
     Metric Development: The analysis calculated:
 
-  a.Retention Rates: The percentage of active customers per cohort over time.
+     a.Retention Rates: The percentage of active customers per cohort over time.
 
-  b.Average Revenue Per User (ARPU): Normalized revenue per cohort.
+     b.Average Revenue Per User (ARPU): Normalized revenue per cohort.
 
-  c.Spend Band Analysis: Categorization of customers based on total historical spend.
+     c.Spend Band Analysis: Categorization of customers based on total historical spend.
 
 3. Key Findings
 
