@@ -2,14 +2,15 @@
 
 1. Executive Summary
 
-This analysis examined customer transaction data to evaluate long-term business performance. By segmenting customers into monthly acquisition    cohorts, the project identified key trends in customer retention, revenue generation, and spending behavior. The findings provided a clear       baseline for evaluating customer lifetime value (CLV) and identified critical areas for retention strategy improvements.
+    This analysis examined customer transaction data to evaluate long-term business performance. By segmenting customers into monthly acquisition  cohorts, the project identified key trends in customer retention, revenue generation, and spending behavior. The findings provided a clear       baseline for evaluating customer lifetime value (CLV) and identified critical areas for retention strategy improvements.
+
 2. Methodology
 
-Data Processing: Raw transaction data was cleaned and transformed using Python (Pandas).
+    Data Processing: Raw transaction data was cleaned and transformed using Python (Pandas).
 
-Cohort Segmentation: Customers were grouped into cohorts based on their initial transaction month.
+    Cohort Segmentation: Customers were grouped into cohorts based on their initial transaction month.
 
-Metric Development: The analysis calculated:
+    Metric Development: The analysis calculated:
 
   a.Retention Rates: The percentage of active customers per cohort over time.
 
